@@ -24,3 +24,6 @@ Edusity is a **responsive educational website** built using **React, Vite and re
    ```sh
    npm run dev
    ```
+📜 License
+
+This project is licensed under the MIT License.
